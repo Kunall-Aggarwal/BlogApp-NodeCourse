@@ -1,0 +1,32 @@
+NODEMON
+    node install -g nodemon         //command to download nodemon globally
+
+    => A package that automatically restarts server when changes are made 
+
+    //delete the file at location if not working
+
+
+
+
+LODASH
+    node install lodash             //command to install lodash package
+
+    => A package to make things things easier to code
+
+
+
+
+INSTALL REQUIRED PACKAGES
+    //when installing a git project, initially you won't be having packages/dependencies installed
+    // so just type the following command in your terminal
+
+    npm install                     //command to install all the dependencies present in the package.json file
+
+
+
+
+EXPRESS
+    npm install express             //command to install express
+
+    => A package that makes NodeJs more simpler to use
+
